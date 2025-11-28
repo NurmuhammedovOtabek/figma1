@@ -1,0 +1,109 @@
+.wul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wul ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 27px;
+  list-style: none;
+  font-size: 14px;
+  color: #454545;
+  margin-top: 24px;
+}
+.wul ul li a {
+  color: #454545;
+  text-decoration: none;
+}
+
+.ws {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+
+.navp {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 29px;
+  margin-top: 20px;
+}
+
+.navp .navp1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5px;
+}
+
+.navp .navp1 span{
+    font-size: 29px;
+}
+
+.navp2{
+      display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+
+.navp2 button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 9px;
+    background-color: #454545;
+    width: 150px;
+    height: 50px;
+    border-radius: 100px;
+    border: #454545;
+    color: #fff;
+}
+
+
+.navp2 input{
+    width: 626px;
+    height: 50px;
+    border: 1px solid #454545 ;
+    border-radius: 100px;
+    padding-left: 24px;
+}
+
+.navp2 div{
+    max-width: 64px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.navp2 div:first-child img{
+    width: 20px;
+    height: 18px;
+    
+}
+
+.navp2 div:nth-child(2) img{
+    width: 20px;
+    height: 20px;
+}
+
+.navp2 div:last-child img{
+    width: 24px;
+    height: 24px;
+}
+
+.navp2 div p{
+    font-size: 12px;
+    margin-top: 6px;
+}
+
+
+
