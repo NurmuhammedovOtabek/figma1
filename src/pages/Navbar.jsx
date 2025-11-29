@@ -7,6 +7,7 @@ import v4 from "../assets/vector5.png";
 import v5 from "../assets/vector6.png";
 import cs from "./Navbar.module.css";
 
+
 function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isSearchVisible, setIsSearchVisible] = useState(false);
