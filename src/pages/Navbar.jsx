@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import v from "../assets/vector2.png";
-import v2 from "../assets/vector3.png";
-import v3 from "../assets/vector4.png";
-import v4 from "../assets/vector5.png";
-import v5 from "../assets/vector6.png";
+import v2 from "../assets/Vector3.png";
+import v3 from "../assets/Vector4.png";
+import v4 from "../assets/Vector5.png";
+import v5 from "../assets/Vector6.png";
 import cs from "./Navbar.module.css";
 
 
